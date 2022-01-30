@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# All other files
+Встречи книжного чатика.xlsx
+.~lock.*
